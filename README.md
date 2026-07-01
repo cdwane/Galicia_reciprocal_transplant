@@ -8,6 +8,8 @@ This reository contains data and code associated with the manuscript "Divergence
 
 The dataset contains data generated from a field reciprocal transplant experiment conducted at Centinela, Galicia in summer 2022, and an accompanying laboratory experiment conducted simultaneously at ECIMAT- UVIGO using animals collected from the same site.
 
+This work was facilitated by the European Union's Horizon 2020 research and innovation programme under grant agreement No. 730984 (ASSEMBLE Plus project)
+
 The objective of the study was to assess physiological differences in cardiac function between "Crab" and "Wave" ecotypes of the intertidal snail, Littorina saxatilis, following 1- and 4-day reciprocal transplantation across shore height within their native habitat, and under controlled laboratory ramps.
 
 Note that the Crab and Wave ecotypes are referred to as "RB" and "SU", respectively in the data and code, reflecting older naming conventions of the two ecotypes in the L. saxatilis literature.)
